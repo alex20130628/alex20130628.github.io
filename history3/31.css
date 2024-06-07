@@ -1,0 +1,53 @@
+img{
+    width: 100%;
+    margin: 10px;
+}
+
+.big-photo{
+    background-image: url(olsh29.jpg);
+     height: 450px;
+     color: white;
+     text-align: center;
+     background-position:35% 50% ;
+        background-size: cover;}
+     .big-photo-2{
+        background-image: url(kyivska-rus.jpg);
+         height: 450px;
+         color: white;
+         text-align: center;
+         background-position:35% 50% ;
+         background-size: cover;
+         
+    }
+    .big-photo-3{
+        background-image: url(fullsize.jpg);
+         height: 450px;
+         color: white;
+         text-align: center;
+         background-position:35% 50% ;
+         background-size: cover;
+         
+    }
+    .big-photo-4{
+        background-image: url(11.jpg);
+         height: 450px;
+         color: white;
+         text-align: center;
+         background-position:35% 50% ;
+         background-size: cover;
+         
+    }
+    .bbb{
+        background-color: #353535aa;
+    }
+    .gsgh{
+        background: linear-gradient(#290F05, #793c07, #170802);
+        color: #cc9933; 
+    }
+    .row{
+        align-items: center;
+    }
+    .container{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
